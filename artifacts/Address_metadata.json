@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ArchyTheElfNFT_flat.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ArchyTheElfNFT_flat.sol": {
+			"keccak256": "0xb29835e1cff20891b4b0924d755cbd73e450063a10db979b85dcf361be88b469",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fd1c286c3461748fa6b7226104faf7eb94688d14bd5ba6c66297349d62f2ebbc",
+				"dweb:/ipfs/QmQHTsoccd1C4JbvR6dk14N9CHvHxopud66Fi94eBbPWSU"
+			]
+		}
+	},
+	"version": 1
+}
